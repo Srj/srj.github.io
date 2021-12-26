@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a>. CS Undergrad, Bangladesh University of Engineering & Technology
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>srj.buet17@gmail.com</p>
+    <p>Dhaka, Bangladesh</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am Saifur Rahman Jony. I am currently a computer science undergrad at Bangladesh University of Engineering & Technology. I love to do research in my spare time. I have been actively involved in some research in my department under one of our professors. You can find my published papers' link in [publications](/al-folio/publications/) section. I am interested in Machine Learning, Deep Learning, Reinforcement Learning, Networking & Computer Security, Computational Biology and Quantum Computing. I am open to research collaboration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also love playing cricket. You will often find me playing cricket in our dorm's field. I also play Poker, Chess, Table Tennis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from these, I enjoy travelling. I love to get lost in the mountains. Whenever I get an opportunity, I go to Bandorban. I plan to explore every part of Bandorban in future.
+
