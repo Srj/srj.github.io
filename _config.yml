@@ -79,7 +79,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: SrJ's diary  # your blog must have a name for it to show up in the nav bar
+blog_name: SrJ's Diary  # your blog must have a name for it to show up in the nav bar
 blog_description: You can find blogs written by me here
 permalink: /blog/:year/:title/
 
