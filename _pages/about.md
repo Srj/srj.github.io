@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>srj.buet17@gmail.com</p>
+    <p>srj.buet17 at gmail.com</p>
     <p>Dhaka, Bangladesh</p>
 
 news: true  # includes a list of news items
