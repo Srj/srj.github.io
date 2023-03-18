@@ -2,7 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. CS Undergrad, Bangladesh University of Engineering & Technology
+description:         B.Sc in Computer Science & Engineering
+                    <br>
+                     Bangladesh University of Engineering & Technology
+                    <br>
+                    Research Assisant at CSE,BUET under the supervision of Prof. Dr. M. Sohel Rahman
+                    <br>
+                    in collaboration with Samee Lab, Baylor College of Medicine
+
 
 profile:
   align: right
