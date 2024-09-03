@@ -46,7 +46,7 @@ redirect_from:
                     <text style="font-size:0.8em;color:grey;">
                     <ul>
                     <br>
-                    <li>Lead Analyst in a collaboration with the Asian Development Bank (ADB) with an aim to improve Computer and Software Engineering Tertiary Education in Bangladesh. My analysis played a crucial role in articulating labor and skills demand in Bangladesh ICT industry, contributing to initiate Improving Computer and Software Engineering Tertiary Education Project through US$100 million concession loan  approved by the Board of Directors at the Asian Development Bank (ADB). </li><br>
+                    <li>Lead Analyst in a collaboration with the Asian Development Bank (ADB) with an aim to improve Computer and Software Engineering Tertiary Education in Bangladesh. My analysis played a crucial role in articulating labor and skills demand in Bangladesh ICT industry, contributing to initiate Improving Computer and Software Engineering Tertiary Education Project through US$100 million concession loan  approved by the Board of Directors at the Asian Development Bank (ADB). </li>
 
                     <li> I have been working as part of a team to develop Agent Based Modelling for COVID-19 forecasting model to address high-priority public health challenges. The project was of national importance for the Government of Bangladesh, and I received recognition from the government for my contribution. </li><br>
 
