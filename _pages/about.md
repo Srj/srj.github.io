@@ -6,6 +6,60 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
+                    <h5>Education</h5>
+                    <hr>
+                    <text style="font-size:0.8em;color:grey;"> August 2024 - Present </text><br>
+                    <b>Ph.D in Computational & Systems Biology </b>
+                    <br>
+                    <i>Washington University School of Medicine, St. Louis, MO, USA</i>
+                    <br><br>
+                    <text style="font-size:0.8em;color:grey;"> April 2018 - July 2023 </text><br>
+                    <b>B.Sc in Computer Science & Engineering </b>
+                    <br>
+                    <i>Bangladesh University of Engineering & Technology, Dhaka, BD </i>
+                    <br>
+                    <br>
+                    <h5>Professional Experience</h5>
+                    <hr>
+                    <text style="font-size:0.8em;color:grey;"> August 2024 - Present </text><br>
+                    <b>Rotation Student, <a href="https://wang.wustl.edu/"> Wang Lab</a>, Department of Genetics</b>
+                    <br>
+                    <i>Washington University of School of Medicine, St. Louis, MO</i>
+                    <i> in collaboration with Samee Lab, Baylor College of Medicine, Austin, TX, USA</i>
+                    <br><br>
+                    <text style="font-size:0.8em;"> I am planning to work on the intersection of Pangenome & Next Generation Sequencing Data during my rotation.</text>
+                    <br><br>
+                    <text style="font-size:0.8em;color:grey;"> April 2022 - July 2024 </text><br>
+                    <b>Research Assistant, Department of Computer Science & Engineering</b>
+                    <br>
+                    <i>Bangladesh University of Engineering & Technology, Dhaka, BD</i>
+                    <i> in collaboration with Samee Lab, Baylor College of Medicine, Austin, TX, USA</i>
+                    <br><br>
+                    <text style="font-size:0.8em;"> I contributed to multiple single-cell omics data analysis projects. My responsibilities included quality control, benchmarking batch integration methods, clustering analysis, marker gene predictions, and cell annotation. I implemented efficient Python-based GSVA pathway scoring methods, which require much less memory and time. I also developed a deep-learning model capable of recovering original gene expression from pathway scoring that can be useful where we need the input of our model to be Pathway rather than Gene. </text>
+                    <br><br>
+                    <text style="font-size:0.8em;color:grey;"> June 2020 - June 2023 </text><br>
+                    <b>Undergraduate Research Assistant, Department of Computer Science & Engineering</b>
+                    <br>
+                    <i>Bangladesh University of Engineering & Technology, Dhaka, BD</i>
+                    <br>
+                    <text style="font-size:0.8em;color:grey;">
+                    <ul>
+                    <br>
+                    <li>Lead Analyst in a collaboration with the Asian Development Bank (ADB) with an aim to improve Computer and Software Engineering Tertiary Education in Bangladesh. My analysis played a crucial role in articulating labor and skills demand in Bangladesh ICT industry, contributing to initiate Improving Computer and Software Engineering Tertiary Education Project through US$100 million concession loan  approved by the Board of Directors at the Asian Development Bank (ADB). </li><br>
+
+                    <li> I have been working as part of a team to develop Agent Based Modelling for COVID-19 forecasting model to address high-priority public health challenges. The project was of national importance for the Government of Bangladesh, and I received recognition from the government for my contribution. </li><br>
+
+                    <li> I mentored the winning team at IEEE VIP CUP 2023 in Kuala lumpur, Malaysis.We detected various ophthalmic markers from 3D OCT images of eyes at the individual patient level. For this task, we devised an innovative ensemble of models capable of capturing both local and global biomarkers that won the first prize.</li>
+
+                    </ul>
+                    </text><br><br>
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
