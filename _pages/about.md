@@ -32,7 +32,7 @@ redirect_from:
 >*Research Assistant*\
 >**Department of Computer Science & Engineering**\
 ><b><text style="font-size:0.8em;">Bangladesh University of Engineering & Technology</text></b><br>
-><b><text style="font-size:0.8em;">w/ Samee Lab, Baylor College of Medicine</text></b>
+
 >
 >><text style="font-size:0.8em;">I contributed to multiple single-cell omics data analysis projects. My responsibilities included quality control, benchmarking batch integration methods, clustering analysis, marker gene predictions, and cell annotation. I implemented efficient Python-based GSVA pathway scoring methods, which require much less memory and time. I also developed a deep-learning model capable of recovering original gene expression from pathway scoring that can be useful where we need the input of our model to be Pathway rather than Gene.</text>
 
