@@ -7,89 +7,78 @@ redirect_from:
   - /about.html
 ---
 
-### Education
----
-><text style="font-size:0.8em;color:grey;"> August 2024 - Present </text>
->**Ph.D in Computational & Systems Biology**\
-*Washington University School of Medicine, St. Louis, MO, USA*
+<section class="profile-intro">
+  <p class="profile-eyebrow">Computational biology | cancer genomics | AI &amp; Machine Learning</p>
+  <p class="profile-lede">I am a PhD student in Computational &amp; Systems Biology at <b>Washington University School of Medicine</b>, working in the <a href="https://wang.wustl.edu/">Wang Lab</a> in the Department of Genetics. <br><br>
 
-><text style="font-size:0.8em;color:grey;"> April 2018 - July 2023 </text>
->**B.Sc in Computer Science & Engineering**\
-*Bangladesh University of Engineering & Technology, Dhaka, BD*
+  My research focuses on the intersection of cancer (epi-)genomics, transposable elements, and deep learning based predictive models to infer treatment-induced changes from pre-treatment genomic and epigenomic state.</p>
+  <div class="research-pillbar">
+    <span>Epigenetic therapy</span>
+    <span>Transposable elements</span>
+    <span>Single-cell multi-omics</span>
+    <span>Deep learning</span>
+    <span>Sequence2Function Models</span>
 
-### Professional Experience
----
-><text style="font-size:0.8em;color:grey;"> August 2024 - Present </text>
->*Rotation Student, <a href="https://wang.wustl.edu/"> Wang Lab</a>*\
-**Department of Genetics**\
-><b><text style="font-size:0.8em;">Washington University of School of Medicine, St. Louis, MO</text></b>
->
->> <text style="font-size:0.8em;">I am planning to work on the intersection of Pangenome & Next Generation Sequencing Data during my rotation.</text>
+  </div>
+</section>
 
+## Research Focus
 
+<div class="summary-grid">
+  <section class="summary-card">
+    <h3>Predictive cancer epigenomics</h3>
+    <p>Designing predictive models to estimate epigenetic treatment-induced changes in transposable element expression from pre-treatment genomic and epigenomic data in glioblastoma.</p>
+  </section>
+  <section class="summary-card">
+    <h3>Genomic Analysis</h3>
+    <p>Studying open chromatin regions, 3D conformation, DNA methylation and hydroxymethylation in various cellular context including natural killer cells, hepatocytes, neurons and glias in both development and disease context.</p>
+  </section>
+  <section class="summary-card">
+    <h3>Single-cell biology</h3>
+    <p>Building cellular dynamics models based on single cell assays to understand gene regulatory networks in development and disease context. </p>
+  </section>
+</div>
 
-><text style="font-size:0.8em;color:grey;"> April 2022 - July 2024 </text>
->*Research Assistant*\
->**Department of Computer Science & Engineering**\
-><b><text style="font-size:0.8em;">Bangladesh University of Engineering & Technology</text></b><br>
+## Current Position
 
->
->><text style="font-size:0.8em;">I contributed to multiple single-cell omics data analysis projects. My responsibilities included quality control, benchmarking batch integration methods, clustering analysis, marker gene predictions, and cell annotation. I implemented efficient Python-based GSVA pathway scoring methods, which require much less memory and time. I also developed a deep-learning model capable of recovering original gene expression from pathway scoring that can be useful where we need the input of our model to be Pathway rather than Gene.</text>
+<div class="cv-entry">
+  <p class="cv-date">Aug 2024 - present</p>
+  <h3>Graduate Research Assistant, Wang Lab</h3>
+  <p>Department of Genetics, WashU Medicine</p>
+  <ul>
+    <li>Developing predictive models for epigenetic drug-induced transposable element expression changes in glioblastoma.</li>
+    <li>Analyzing methylation and sequencing data across cancer, immune, developmental, and prenatal epigenomics collaborations.</li>
+    <li>Integrating genomic, epigenomic, and machine learning methods to identify regulatory changes with therapeutic relevance.</li>
+  </ul>
+</div>
 
+## Background
 
-><text style="font-size:0.8em;color:grey;"> June 2020 - June 2023 </text>
->*Undergraduate Research Assistant*\
-**Department of Computer Science & Engineering**\
-><b><text style="font-size:0.8em;">Bangladesh University of Engineering & Technology, Dhaka, BD</text></b>
->
->> <text style="font-size:0.8em;"> Lead Analyst in a collaboration with the Asian Development Bank (ADB) with an aim to improve Computer and Software Engineering Tertiary Education in Bangladesh. My analysis played a crucial role in articulating labor and skills demand in Bangladesh ICT industry, contributing to initiate Improving Computer and Software Engineering Tertiary Education Project through 100 million USD concession loan  approved by the Board of Directors at the Asian Development Bank (ADB). </text>
->
->> <text style="font-size:0.8em;">I worked as part of a team to develop Agent Based Modelling for COVID-19 forecasting model to address high-priority public health challenges. The project was of national importance for the Government of Bangladesh, and I received recognition from the government for my contribution. </text>
->
->> <text style="font-size:0.8em;">I mentored the winning team at IEEE VIP CUP 2023 in Kuala lumpur, Malaysis.We detected various ophthalmic markers from 3D OCT images of eyes at the individual patient level. For this task, we devised an innovative ensemble of models capable of capturing both local and global biomarkers that won the first prize. </text>
+<ul class="timeline-list">
+  <li>
+    <span>2024 - present</span>
+    <div>
+      <strong>PhD, Computational &amp; Systems Biology, WashU Medicine</strong><br>
+      Doctoral advisor: Ting Wang, PhD, FAIMBE
+      <br>Precision Medicine Pathway Fellow (2025-2027)
+    </div>
+  </li>
+    <li>
+    <span>2023</span>
+    <div>
+      <strong>BS, Computer Science &amp; Engineering, BUET</strong><br>
+      Thesis: Modeling single-cell time series for cell trajectory inference.
+      Supervisor: M. Sohel Rahman, PhD
+    </div>
+  </li>
 
+</ul>
 
+## Selected Highlights
 
+- Associate Member, American Association for Cancer Research.
+- Graduate Teaching Assistant for BIOL 5495: Computational Molecular Biology at WashU Medicine.
+- Graduate mentor for the IEEE VIP CUP 2023 winning team in Kuala Lumpur, Malaysia.
+- Contributor to COVID-19 forecasting, geospatial public-health analytics, and ICT labor-market analyses used in policy-facing projects.
 
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For collaboration or research inquiries, contact saifur at wustl.edu

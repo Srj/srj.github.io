@@ -7,16 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A compact index of the main pages and collection entries on this site. An [XML sitemap]({{ base_path }}/sitemap.xml) is also available.
 
 <h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+{% assign visible_pages = site.pages | where_exp: "page", "page.sitemap != false" %}
+{% for post in visible_pages %}
+  {% unless post.url == "/sitemap/" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
 {% capture written_label %}'None'{% endcapture %}

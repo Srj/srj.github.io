@@ -39,3 +39,219 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Site-specific polish
+   ========================================================================== */
+
+.profile-intro {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.profile-eyebrow {
+  margin-bottom: 0.55rem;
+  color: #0f766e;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.profile-lede {
+  color: #2f3a3d;
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.research-pillbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 1rem;
+}
+
+.research-pillbar span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  background: #f8fafc;
+  color: #334155;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.35rem 0 1.75rem;
+}
+
+.summary-card {
+  padding: 1rem;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #0f766e;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.summary-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  color: #1f2937;
+  font-size: 1.05rem;
+}
+
+.summary-card p {
+  margin-bottom: 0;
+  color: #475569;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.cv-entry {
+  margin: 1.25rem 0 1.75rem;
+  padding-left: 1rem;
+  border-left: 4px solid #d97706;
+}
+
+.cv-entry h3 {
+  margin: 0.2rem 0 0.2rem;
+  font-size: 1.08rem;
+}
+
+.cv-date {
+  margin-bottom: 0;
+  color: #64748b;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.timeline-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.timeline-list li {
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  gap: 0.9rem;
+  padding: 0.9rem 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.timeline-list li:last-child {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.timeline-list span {
+  color: #0f766e;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.travel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.travel-card {
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.travel-card__image-link {
+  display: block;
+  text-decoration: none;
+}
+
+.travel-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.travel-card__body {
+  padding: 1rem;
+}
+
+.travel-card h2 {
+  margin: 0 0 0.4rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.travel-card__meta {
+  margin-bottom: 0.75rem;
+  color: #64748b;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.travel-empty {
+  padding: 1rem;
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  color: #64748b;
+  background: #f8fafc;
+}
+
+.travel-photo {
+  margin: 2rem 0;
+}
+
+.travel-photo img {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.travel-photo-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.travel-photo p {
+  margin-top: 0.75rem;
+  color: #475569;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.travel-photo-pair p {
+  grid-column: 1 / -1;
+  margin-top: 0;
+}
+
+@media (max-width: 600px) {
+  .profile-lede {
+    font-size: 1.04rem;
+  }
+
+  .timeline-list li {
+    display: block;
+  }
+
+  .timeline-list span {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+
+  .travel-photo-pair {
+    grid-template-columns: 1fr;
+  }
+}

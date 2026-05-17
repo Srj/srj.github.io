@@ -1,0 +1,39 @@
+---
+layout: archive
+title: "The World through My 4 Lens"
+permalink: /travel/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Trip notes, and travel memories.</p>
+
+{% assign travel_posts = site.travel | sort: "date" | reverse %}
+
+{% if travel_posts.size > 0 %}
+  <div class="travel-grid">
+    {% for post in travel_posts %}
+      <article class="travel-card">
+        {% if post.header.teaser %}
+          <a href="{{ base_path }}{{ post.url }}" class="travel-card__image-link">
+            <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: base_path }}{% endif %}" alt="{{ post.title }}">
+          </a>
+        {% endif %}
+        <div class="travel-card__body">
+          <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+          <p class="travel-card__meta">
+            {% if post.location %}{{ post.location }}{% endif %}
+            {% if post.location and post.date %} · {% endif %}
+            {% if post.date %}{{ post.date | date: "%B %Y" }}{% endif %}
+          </p>
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | markdownify | strip_html }}</p>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <p class="travel-empty">Travel posts are coming soon.</p>
+{% endif %}
