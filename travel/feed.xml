@@ -26,7 +26,10 @@ permalink: /travel/feed.xml
     {% if post.excerpt %}
     <summary type="html">{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
     {% endif %}
-    <content type="html">{{ post.content | markdownify | xml_escape }}</content>
+    {% assign content = post.content | markdownify %}
+    {% assign content = content | replace: 'src="/', 'src="https://srj.github.io/' %}
+    {% assign content = content | replace: 'href="/', 'href="https://srj.github.io/' %}
+    <content type="html">{{ content | xml_escape }}</content>
   </entry>
   {% endfor %}
 </feed>
