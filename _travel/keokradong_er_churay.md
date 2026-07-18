@@ -13,6 +13,8 @@ header:
   <p> View from Keokradong Peak </p>
 </div>
 
+<h3> PREFACE </h3>
+<hr>
 As I prepare for my PhD thesis proposal, all I want to do right now is anything but write it. I believe this is fairly common among humans: we tend to avoid tasks that require intense mental energy and switch to activities that demand only passive attention, distracting ourselves from the task at hand. Like most people, my go-to passive habits are scrolling through Instagram or Twitter(X), watching informative vlogs or television series.
 
 
@@ -44,6 +46,8 @@ Still, I am not here today to write my entire philosophy of hiking or life. Perh
 
 
 Every obsession has an origin. Mine began with a trip I was not even sure I wanted to take.
+<h3> THE JOURNEY </h3>
+<hr>
 
 
 Today, I want to write about the defining trip of my life, a canon event, as some people might call it. I am quite certain that if I had not taken that trip, my life would have turned out very differently.
