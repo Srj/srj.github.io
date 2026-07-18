@@ -1,5 +1,5 @@
 ---
-title: "Keokradong er Churay"
+title: "At the Peak of Keokradong(কেওক্রাডংয়ের চূড়ায়)"
 collection: travel
 permalink: /travel/keokradong_er_churay/
 date: 2026-07-17
