@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fBqC8GAAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -141,7 +141,7 @@ social:
   type                   : Person
   name                   : "Saifur Rahman Jony"
   links: # An array of links to social media profiles
-    - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+    - "https://scholar.google.com/citations?user=fBqC8GAAAAAJ&hl=en"
     - "https://github.com/srj"
 
 
