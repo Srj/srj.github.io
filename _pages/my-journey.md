@@ -6,7 +6,7 @@ author_profile: true
 
 <p class="page__lead"> <i> In the grand scheme of things, we're just tiny specks that will one day be forgotten. So it doesn't matter what we did in the past, or how we'll be remembered. - </i> Bojack Horseman </p>
 
-This is a short summary of my 28 years of life. I certainly have not achieved most of the things I have desired, but whatever fraction of those aspirations I have managed to achieve, I am proud of.
+This is a short summary of my 28 years of life. I certainly have not achieved most of the things I have desired, but whatever fraction of those aspirations I have managed to achieve, I am proud of them.
 
 
 I was born on February 4, 1998, in Dhaka, Bangladesh. According to population statistics from around 2000, the probability of being born in Bangladesh was roughly 2.7%, higher than one might expect from a simple random choice among the roughly 200 countries in the world. Bangladesh is a developing country that, for much of my life, has lacked many of the facilities and opportunities available in more developed parts of the world. It is geographically one of the smaller countries in the world, yet one of the most densely populated and populous.
