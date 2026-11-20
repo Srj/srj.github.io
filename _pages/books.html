@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Books"
+permalink: /books/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Books I've finished, with a line or two on each.</p>
+
+{% if site.data.books.size > 0 %}
+  <ul class="book-list">
+    {% for book in site.data.books %}
+      <li class="book-row">
+        {% if book.cover %}
+          <img src="{{ book.cover }}" alt="Cover of {{ book.title }}" class="book-row__cover">
+        {% endif %}
+        <div class="book-row__body">
+          <h2>{{ book.title }}</h2>
+          {% if book.author %}
+            <p class="book-row__author">{{ book.author }}{% if book.published %} &middot; {{ book.published }}{% endif %}</p>
+          {% endif %}
+          {% if book.blurb %}
+            <p class="book-row__blurb">{{ book.blurb }}</p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="travel-empty">Books are coming soon.</p>
+{% endif %}

@@ -1,0 +1,238 @@
+# Books I've finished.
+#
+# Add one entry per book. `cover` should point to an image under /images/books/
+# (drop your cover photo files there). `blurb` is one or two lines about the book.
+# `published` is the book's original publication year.
+#
+# - title: "Book Title"
+#   author: "Author Name"
+#   published: 2020
+#   cover: "/images/books/example.jpg"
+#   blurb: "One or two lines about the book."
+
+- title: "The Alchemist"
+  author: "Paulo Coelho"
+  published: 1988
+  cover: "/images/books/the-alchemist.jpg"
+  blurb: "I started reading non-academic books pretty late in life, and this was probably the first one I read. Nothing significant,
+                        but a good start to my journey of reading. All I remember is Maktub, which means 'it is written' in Arabic.
+                        I don't believe in religion, but I do believe in destiny/maktub."
+
+- title: "The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny"
+  author: "Robin S. Sharma"
+  published: 1997
+  cover: "/images/books/the-monk-who-sold-his-ferrari.jpg"
+  blurb: ""
+
+- title: "A Brief History of Time"
+  author: "Stephen W. Hawking"
+  published: 1988
+  cover: "/images/books/a-brief-history-of-time.jpg"
+  blurb: ""
+
+- title: "Outliers: The Story of Success"
+  author: "Malcolm Gladwell"
+  published: 2008
+  cover: "/images/books/outliers.jpg"
+  blurb: ""
+
+- title: "Sapiens: A Brief History of Humankind"
+  author: "Yuval Noah Harari"
+  published: 2011
+  cover: "/images/books/sapiens.jpg"
+  blurb: ""
+
+- title: "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not!"
+  author: "Robert T. Kiyosaki"
+  published: 1997
+  cover: "/images/books/rich-dad-poor-dad.jpg"
+  blurb: ""
+
+- title: "Man's Search for Meaning"
+  author: "Viktor E. Frankl"
+  published: 1946
+  cover: "/images/books/mans-search-for-meaning.jpg"
+  blurb: ""
+
+- title: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+  author: "James Clear"
+  published: 2018
+  cover: "/images/books/atomic-habits.jpg"
+  blurb: ""
+
+- title: "21 Lessons for the 21st Century"
+  author: "Yuval Noah Harari"
+  published: 2018
+  cover: "/images/books/21-lessons-for-the-21st-century.jpg"
+  blurb: ""
+
+- title: "An Era of Darkness: The British Empire in India"
+  author: "Shashi Tharoor"
+  published: 2016
+  cover: "/images/books/an-era-of-darkness.jpg"
+  blurb: ""
+
+- title: "The Richest Man in Babylon"
+  author: "George S. Clason"
+  published: 1926
+  cover: "/images/books/the-richest-man-in-babylon.jpg"
+  blurb: ""
+
+- title: "The Power of Habit: Why We Do What We Do in Life and Business"
+  author: "Charles Duhigg"
+  published: 2012
+  cover: "/images/books/the-power-of-habit.jpg"
+  blurb: ""
+
+- title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+  author: "Ashlee Vance"
+  published: 2015
+  cover: "/images/books/elon-musk.jpg"
+  blurb: ""
+
+- title: "Thinking, Fast and Slow"
+  author: "Daniel Kahneman"
+  published: 2011
+  cover: "/images/books/thinking-fast-and-slow.jpg"
+  blurb: ""
+
+- title: "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life"
+  author: "Mark Manson"
+  published: 2016
+  cover: "/images/books/the-subtle-art-of-not-giving-a-fck.jpg"
+  blurb: ""
+
+- title: "Shoe Dog: A Memoir by the Creator of Nike"
+  author: "Phil Knight"
+  published: 2016
+  cover: "/images/books/shoe-dog.jpg"
+  blurb: ""
+
+- title: "The Black Swan: The Impact of the Highly Improbable"
+  author: "Nassim Nicholas Taleb"
+  published: 2007
+  cover: "/images/books/the-black-swan.jpg"
+  blurb: ""
+
+- title: "Why Nations Fail: The Origins of Power, Prosperity, and Poverty"
+  author: "Daron Acemoğlu"
+  published: 2012
+  cover: "/images/books/why-nations-fail.jpg"
+  blurb: ""
+
+- title: "অনুভূতির অভিধান"
+  author: "Tahsin Khan"
+  blurb: ""
+
+- title: "The Art of Thinking Clearly"
+  author: "Rolf Dobelli"
+  published: 2011
+  cover: "/images/books/the-art-of-thinking-clearly.jpg"
+  blurb: ""
+
+- title: "1984"
+  author: "George Orwell"
+  published: 1949
+  cover: "/images/books/1984.jpg"
+  blurb: ""
+
+- title: "Foundation"
+  author: "Isaac Asimov"
+  published: 1951
+  cover: "/images/books/foundation.jpg"
+  blurb: ""
+
+- title: "How to Win Friends & Influence People"
+  author: "Dale Carnegie"
+  published: 1936
+  cover: "/images/books/how-to-win-friends-and-influence-people.jpg"
+  blurb: ""
+
+- title: "Foundation and Empire"
+  author: "Isaac Asimov"
+  published: 1952
+  cover: "/images/books/foundation-and-empire.jpg"
+  blurb: ""
+
+- title: "Second Foundation"
+  author: "Isaac Asimov"
+  published: 1953
+  cover: "/images/books/second-foundation.jpg"
+  blurb: ""
+
+- title: "Musashi's Dokkodo (The Way of Walking Alone): Half Crazy, Half Genius - Finding Modern Meaning in the Sword Saint's Last Words"
+  author: "Miyamoto Musashi"
+  published: 2015
+  cover: "/images/books/musashis-dokkodo.jpg"
+  blurb: ""
+
+- title: "The Autobiography of Charles Darwin, 1809–82"
+  author: "Charles Darwin"
+  published: 1958
+  cover: "/images/books/the-autobiography-of-charles-darwin.jpg"
+  blurb: ""
+
+- title: "The Communist Manifesto"
+  author: "Karl Marx"
+  published: 1848
+  cover: "/images/books/the-communist-manifesto.jpg"
+  blurb: ""
+
+- title: "The Old Man and the Sea"
+  author: "Ernest Hemingway"
+  published: 1952
+  cover: "/images/books/the-old-man-and-the-sea.jpg"
+  blurb: ""
+
+- title: "A History of God: The 4000-Year Quest of Judaism, Christianity and Islam"
+  author: "Karen Armstrong"
+  published: 1993
+  cover: "/images/books/a-history-of-god.jpg"
+  blurb: ""
+
+- title: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
+  author: "Bessel van der Kolk"
+  published: 2014
+  cover: "/images/books/the-body-keeps-the-score.jpg"
+  blurb: ""
+
+- title: "The Stress-Proof Brain: Master Your Emotional Response to Stress Using Mindfulness and Neuroplasticity"
+  author: "Melanie Greenberg"
+  published: 2017
+  cover: "/images/books/the-stress-proof-brain.jpg"
+  blurb: ""
+
+- title: "Introduction to Protein-DNA Interactions: Structure, Thermodynamics, and Bioinformatics"
+  author: "Gary Stormo"
+  published: 2013
+  blurb: ""
+
+- title: "A Computer Scientist's Guide to Cell Biology"
+  author: "William W. Cohen"
+  published: 2007
+  cover: "/images/books/a-computer-scientists-guide-to-cell-biology.jpg"
+  blurb: ""
+
+- title: "Probability and Statistics"
+  author: "Morris H. DeGroot & Mark J. Schervish"
+  published: 2013
+  cover: "/images/books/probability-and-statistics.jpg"
+  blurb: ""
+
+- title: "The Religion of Tibet"
+  author: "Charles Bell"
+  published: 1931
+  cover: "/images/books/the-religion-of-tibet.jpg"
+  blurb: ""
+
+- title: "The Future of an Illusion"
+  author: "Sigmund Freud"
+  published: 1927
+  cover: "/images/books/the-future-of-an-illusion.jpg"
+  blurb: ""
+
+- title: "Uniquely Human: A Different Way of Seeing Autism"
+  author: "Barry M. Prizant"
+  published: 2015
+  cover: "/images/books/uniquely-human.jpg"
+  blurb: ""

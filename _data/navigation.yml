@@ -25,3 +25,6 @@ main:
 
   - title: "My Journey"
     url: /journey/
+
+  - title: "Books"
+    url: /books/
