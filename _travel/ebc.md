@@ -97,7 +97,7 @@ After some of the near-death experiences from my previous trips, this felt like 
 Lukla is considered one of the riskiest airports in the world for landing. It sits in a valley along the route toward Everest and can be extremely difficult to see from above, particularly on cloudy days. But I loved the flight. From the plane, the Himalayas appeared incredibly close, unfolding in a panoramic view around us.
 
 <div class="travel-photo">
-  <img src="/images/travel/ebc/3.jpg" alt="View of the Himalayas from under the plane's wing on the Lukla flight">
+  <video src="/images/travel/ebc/3.mp4" autoplay loop muted playsinline></video>
   <p>The Himalayas from the window on the flight into Lukla.</p>
 </div>
 
