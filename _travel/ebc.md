@@ -2,7 +2,7 @@
 title: "My EBC Trip: A Stable System of Chaos"
 collection: travel
 permalink: /travel/ebc/
-date: 2026-08-25
+date: 2026-11-19
 location: "Everest Base Camp, Nepal"
 excerpt: "The mountains don't care about your plans"
 header:
